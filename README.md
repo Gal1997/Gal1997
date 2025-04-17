@@ -45,9 +45,9 @@
 
 ### 🧪 Projects I'm Proud Of
 
-📌 **Tomorrow** – Like Monday.com but made by me 😎  
-📌 **Issue Tracker** – An app for tracking issues in development
-📌 **Android Projects** – From my CS degree. Check out [Home Today](https://t.ly/iSzVk) & Quick Match for some frontend love
+📌 [**Tomorrow**](https://github.com/Gal1997/monday-project) – Like Monday.com but made by me 😎   
+📌 [**Issue Tracker**](https://github.com/Gal1997/issue-tracker) – An app for tracking issues in development<br>
+📌 [**Android Projects**](https://t.ly/iSzVk) – From my CS degree. Check out Home Today & Quick Match for some frontend love
 
 ---
 
